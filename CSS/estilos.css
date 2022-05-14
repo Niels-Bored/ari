@@ -387,7 +387,7 @@ body{
 
 @media (max-width: 650px){
     .swiper{
-        height: 25%;
+        height: 28%;
     }
     .over h2{
         font-size: 30px !important;
